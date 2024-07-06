@@ -4,9 +4,11 @@
 </h3> 
 
 - 🎓 Pursuing B. Sc in software engineering at [State University of Bolivar](https://www.ueb.edu.ec/)
+- 💻 Full stack web developer in process
 - 🧠 Currently learning 
 - 📫 Mail me: [aangelogarcia2021@gmail.com](mailto:aangelogarcia2021@gmail.com)
-- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌 
+- ⚡ Fun fact: The first program I wrote wasn't "Hello, World!" 😌
+  
 <!-- - 💬 Ask me about Python -->
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
