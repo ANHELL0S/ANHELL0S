@@ -23,10 +23,12 @@
 ### ⚡ Skills:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](#)
 
 <!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
 <!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
