@@ -17,7 +17,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ANHELL0s-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
 [![Facebook Badge](https://img.shields.io/badge/-ANHELL0s-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/ANHELL0s/)
 [![Twitter](https://img.shields.io/badge/@ANHELL0s-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
-[![Reddit](https://img.shields.io/badge/@ANHELL0s-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mo__shakib)
 [![Discord](https://img.shields.io/badge/-ANHELL0s-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
 
 ### ⚡ Skills:
