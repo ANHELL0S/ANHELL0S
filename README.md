@@ -38,7 +38,6 @@
 ### 🛠 Tools:
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-5d9425.svg?logo=intellij-idea&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
   <a href="#"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white"></a>
@@ -46,5 +45,7 @@
   <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white"></a>
 </p>
