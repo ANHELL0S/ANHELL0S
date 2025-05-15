@@ -3,7 +3,7 @@
   console.log("Hi there, I'm Anhell0 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">")
 </h3> 
 
-- 🎓 Pursuing B. Sc in software engineering at [State University of Bolivar](https://www.ueb.edu.ec/)
+- 🎓 Software engineering
 - 💻 Full stack web developer in process
 - 🧠 Currently learning 
 - 📫 Mail me: [aangelogarcia2021@gmail.com](mailto:aangelogarcia2021@gmail.com)
@@ -13,20 +13,22 @@
 ### 🔗 Connect with me:
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&link=mailto:shakib@duck.com)](mailto:aangelogarcia2021@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ANHELL0s-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shakib/)](https://www.linkedin.com/in/mo-shakib/)
+[![Linkedin Badge](https://img.shields.io/badge/-ANHELL0s-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelo-garc%C3%ADa-49ab01233/)]([https://www.linkedin.com/in/mo-shakib/](https://www.linkedin.com/in/angelo-garc%C3%ADa-49ab01233/))
 [![Facebook Badge](https://img.shields.io/badge/-ANHELL0s-blue?logo=Facebook&logoColor=white&link=https://www.facebook.com/shak1b/)](https://www.facebook.com/ANHELL0s/)
-[![Twitter](https://img.shields.io/badge/@ANHELL0s-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mo__Shakib)
-[![Discord](https://img.shields.io/badge/-ANHELL0s-40567A?logo=Discord&logoColor=white&link=https://discordapp.com/users/moshakib/)](https://discordapp.com/users/732774519802036294)
 
 ### ⚡ Skills:
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](#)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)](#)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)](#)
+[![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=tailwindcss&label=shadcn/ui)](#)
 
 <!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
 <!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
