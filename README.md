@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | 🎓 **Educación** | Ingeniería de Software |
-| 💻 **Rol** | Desarrollador Full Stack (en proceso) |
+| 💻 **Rol** | Desarrollador Full Stack |
 | 🧠 **Aprendiendo** | Actualmente en constante aprendizaje |
 | 📫 **Contacto** | [aangelogarcia2021@gmail.com](mailto:aangelogarcia2021@gmail.com) |
 | ⚡ **Dato curioso** | El primer programa que escribí no fue "Hello, World!" 😌 |
