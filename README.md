@@ -1,7 +1,3 @@
-# 🚀 Anhell0's GitHub Profile
-
----
-
 ## 👋 ¡Hola! Soy Anhell0
 
 > **`console.log("Hi there, I'm Anhell0 👋")`**
