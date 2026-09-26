@@ -11,6 +11,7 @@
 ## 📋 Sobre mí
 
 | | |
+|---|---|
 | 🎓 **Educación** | Ingeniería de Software |
 | 💻 **Rol** | Desarrollador Full Stack (en proceso) |
 | 🧠 **Aprendiendo** | Actualmente en constante aprendizaje |
@@ -76,11 +77,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-### 💡 *"El código es como el humor: cuando tienes que explicarlo, es malo."*
-
-⭐️ **¡Gracias por visitar mi perfil!** ⭐️
-
-</div>
